@@ -7,6 +7,10 @@ public class Test01 {
 		System.out.println("Hello Java");
 		System.out.println("자바: 나다");
 		
+		System.out.println("Hello Java");
+		System.out.println("Hello Java");
+		System.out.println("Hello Java");
+		System.out.println("Hello Java");
 	}
 
 }
