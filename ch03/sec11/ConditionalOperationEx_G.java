@@ -18,7 +18,6 @@ public class ConditionalOperationEx_G {
 
 	            int score;
 	            score = Integer.parseInt(input);
-	            
 	            /* 정수인지 아닌지 확인하는 절차
 	            try {
 	                score = Integer.parseInt(input);
