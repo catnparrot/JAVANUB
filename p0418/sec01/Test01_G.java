@@ -2,7 +2,7 @@ package p0418.sec01;
 
 import java.util.Scanner;
 
-public class Test01 {
+public class Test01_G {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
