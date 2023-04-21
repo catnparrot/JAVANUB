@@ -1,0 +1,59 @@
+[33mcommit 018075c25a5bff3defbdca93356f3ad1e9b5936b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Thu Apr 20 18:17:38 2023 +0900
+
+    참조타입: arguments에 대해서 외
+
+[33mcommit 5c811dae41b8d92ce64484a06b5cfe1a00ed3db2[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Wed Apr 19 17:58:47 2023 +0900
+
+    p0419
+
+[33mcommit 460ae8ef01c6da8999503fe2cfecd3d93f10379a[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Tue Apr 18 19:11:56 2023 +0900
+
+    p0418
+
+[33mcommit b146a0703b71ae383759c2350aabbdd080eb14e8[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Mon Apr 17 18:47:30 2023 +0900
+
+    연산자
+
+[33mcommit 4e90a584a0d99db1e2ec2e9d7bc0b91e51593999[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Mon Apr 17 10:22:59 2023 +0900
+
+    곱셈연산테스트
+
+[33mcommit 7de3d5b81c63f944f69368167d58a947979cbd65[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Fri Apr 14 18:00:46 2023 +0900
+
+    변수_타입_변환
+
+[33mcommit 8023116b24c479ede54b32fda60b3cc7162a7734[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Wed Apr 12 17:24:21 2023 +0900
+
+    출력테스트
+
+[33mcommit d3cb2b0eff09e9daf00fdc2bd7fd2a905e0666a2[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Wed Apr 12 17:17:46 2023 +0900
+
+    ver_3
+
+[33mcommit fedbb3b14dc848e615691ae33eef8a81c7366d8c[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Wed Apr 12 16:38:43 2023 +0900
+
+    덧셈 테스트
+
+[33mcommit 2cdd4992ff63ed3497e70903f62a13cc7cfde897[m
+Author: catnparrot <idiotpi3rrot@gmail.com>
+Date:   Wed Apr 12 16:12:44 2023 +0900
+
+    출력테스트
