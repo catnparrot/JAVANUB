@@ -7,6 +7,8 @@ public class CarEx {
 		
 		myCar.setGas(5);
 		
+		System.out.println(myCar.leftGas());
+		
 		
 		if(myCar.leftGas()) {
 			System.out.println("!");	//출발
