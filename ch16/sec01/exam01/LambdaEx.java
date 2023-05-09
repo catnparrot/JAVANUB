@@ -1,4 +1,4 @@
-package ch16.sec01;
+package ch16.sec01.exam01;
 
 public class LambdaEx {
 	public static void main(String[] args) {
